@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-import '../models/question_model.dart';
 import 'home.dart';
 
 void main() {
@@ -19,5 +17,5 @@ class QuizApp extends StatelessWidget {
   }
 }
 
-// مودل السؤال
+
 
