@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:quiz6/widget/answers_button.dart';
 import '../models/question_model.dart';
-import '../widget/show_result.dart';
+import '../widget/quiz_progress_header.dart';
 
 
 class QuizPage extends StatefulWidget {
